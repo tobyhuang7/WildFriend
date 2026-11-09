@@ -1,0 +1,6 @@
+{
+  "name": "WildFriend: Kids' Wildlife Conservation Explorer",
+  "description": "An interactive, kid-friendly wildlife conservation explorer featuring intelligent species resolution, procedural 3D animal habitats, and local backyard wildlife discovery.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
